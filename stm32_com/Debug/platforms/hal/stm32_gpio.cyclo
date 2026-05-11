@@ -1,0 +1,3 @@
+../platforms/hal/stm32_gpio.c:3:6:stm32_gpio_write	1
+../platforms/hal/stm32_gpio.c:8:6:stm32_gpio_toggle	1
+../platforms/hal/stm32_gpio.c:13:15:stm32_gpio_read	1

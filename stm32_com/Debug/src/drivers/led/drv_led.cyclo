@@ -1,0 +1,12 @@
+../src/drivers/led/drv_led.c:37:16:drv_led_is_valid	1
+../src/drivers/led/drv_led.c:42:13:drv_led_write	5
+../src/drivers/led/drv_led.c:89:13:drv_led_blink_clear_state	2
+../src/drivers/led/drv_led.c:105:5:drv_led_init	2
+../src/drivers/led/drv_led.c:116:6:drv_led_on	2
+../src/drivers/led/drv_led.c:127:6:drv_led_off	2
+../src/drivers/led/drv_led.c:138:6:drv_led_toggle	2
+../src/drivers/led/drv_led.c:153:18:drv_led_blink_start	5
+../src/drivers/led/drv_led.c:197:6:drv_led_blink_stop	2
+../src/drivers/led/drv_led.c:208:6:drv_led_process	6
+../src/drivers/led/drv_led.c:268:9:drv_led_blink_is_done	2
+../src/drivers/led/drv_led.c:278:6:drv_led_blink_clear_done	2

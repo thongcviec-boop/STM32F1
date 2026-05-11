@@ -1,0 +1,8 @@
+../src/protocol/device_protocol/device_protocol.c:5:13:device_protocol_parser_reset	2
+../src/protocol/device_protocol/device_protocol.c:18:6:device_protocol_parser_init	1
+../src/protocol/device_protocol/device_protocol.c:23:16:device_protocol_is_valid_message	5
+../src/protocol/device_protocol/device_protocol.c:37:16:device_protocol_is_valid_led_payload	5
+../src/protocol/device_protocol/device_protocol.c:65:16:device_protocol_is_valid_payload	5
+../src/protocol/device_protocol/device_protocol.c:93:16:device_protocol_is_valid_length	5
+../src/protocol/device_protocol/device_protocol.c:114:26:device_protocol_build_frame	10
+../src/protocol/device_protocol/device_protocol.c:171:29:device_protocol_parse_byte	15

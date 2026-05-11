@@ -1,0 +1,4 @@
+../src/modules/uart_commander/uart_commander.c:6:5:uart_commander_init	8	static
+../src/modules/uart_commander/uart_commander.c:14:6:uart_commander_run	4	static
+../src/modules/uart_commander/uart_commander.c:22:6:uart_commander_send_string	16	static
+../src/modules/uart_commander/uart_commander.c:30:6:uart_commander_rx_callback	72	static

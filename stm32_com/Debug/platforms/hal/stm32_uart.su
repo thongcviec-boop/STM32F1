@@ -1,0 +1,2 @@
+../platforms/hal/stm32_uart.c:3:21:stm32_uart_send	24	static
+../platforms/hal/stm32_uart.c:23:21:stm32_uart_receive_it	24	static

@@ -1,0 +1,7 @@
+../src/system/app_main.c:39:13:app_main_send_status_frame_to_uart1	280	static
+../src/system/app_main.c:59:13:app_main_send_control_led_frame_to_uart1	296	static
+../src/system/app_main.c:83:13:app_main_handle_frame	96	static
+../src/system/app_main.c:170:6:app_main_init	16	static
+../src/system/app_main.c:192:6:app_main_loop	272	static,ignoring_inline_asm
+../src/system/app_main.c:235:6:app_main_uart1_rx_callback	280	static
+../src/system/app_main.c:255:6:app_main_uart2_rx_callback	280	static

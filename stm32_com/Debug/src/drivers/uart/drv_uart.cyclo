@@ -1,0 +1,8 @@
+../src/drivers/uart/drv_uart.c:12:26:drv_uart_send_raw	5
+../src/drivers/uart/drv_uart.c:31:5:drv_uart_init	4
+../src/drivers/uart/drv_uart.c:56:19:drv_uart_send	1
+../src/drivers/uart/drv_uart.c:70:19:drv_uart_device_send_raw	1
+../src/drivers/uart/drv_uart.c:79:6:drv_uart_start_receive_it	2
+../src/drivers/uart/drv_uart.c:91:9:drv_uart_get_rx_byte	1
+../src/drivers/uart/drv_uart.c:96:6:drv_uart_start_device_receive_it	2
+../src/drivers/uart/drv_uart.c:108:9:drv_uart_get_device_rx_byte	1
